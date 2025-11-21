@@ -1,0 +1,1 @@
+Complete Blood Count (CBC),Basic Metabolic Panel (BMP),Comprehensive Metabolic Panel (CMP),Lipid Profile,Liver Function Tests (LFTs),Thyroid Function Tests,Urinalysis,Electrolyte Panel,Coagulation Profile,Blood Glucose Test,Hemoglobin A1c (HbA1c),Blood Typing,Blood Culture,C-reactive Protein (CRP),Erythrocyte Sedimentation Rate (ESR),HIV Test,Hepatitis Panel,Stool Culture
